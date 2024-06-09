@@ -6,7 +6,7 @@ import { getStorage } from 'firebase/storage';
 
 // Your web app's Firebase configuration
 export const firebaseConfig = {
-  apiKey: "AIzaSyA4aPcV4Sx6_y_cJs3TIeFy1HsvHT-VJM0",
+  apiKey: import.meta.env.VITE_API_KEY,
   authDomain: "reactchatapp-acf77.firebaseapp.com",
   projectId: "reactchatapp-acf77",
   storageBucket: "reactchatapp-acf77.appspot.com",
