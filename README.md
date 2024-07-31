@@ -1,3 +1,4 @@
+```
 ## React Chat Application
 This is a chat application built using React and Firebase. It allows users to authenticate, view a list of chats, send messages, and receive notifications. The app is structured with components for different functionalities, such as chat, login, notifications, and user details.
 
